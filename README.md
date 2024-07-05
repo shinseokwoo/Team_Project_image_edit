@@ -40,4 +40,22 @@
 - 필터
 - 자르기
 ***
-## 
+## 회원가입
+![image](https://github.com/shinseokwoo/Team_Project_image_edit/assets/145645194/44ee7a85-4d76-4f54-998f-2fe34b57af1b)
+***
+## 로그인
+![image](https://github.com/shinseokwoo/Team_Project_image_edit/assets/145645194/9e4aaa92-3723-4d86-990a-254fcd1b739f)
+***
+## 비밀번호 찾기
+![image](https://github.com/shinseokwoo/Team_Project_image_edit/assets/145645194/e2866a36-721d-4737-9b78-7feb00ef250a)
+***
+## 이미지 편집 메인 화면
+![image](https://github.com/shinseokwoo/Team_Project_image_edit/assets/145645194/076c94cb-1dd3-4472-842e-694d9570f689)
+***
+## 이미지 추천
+![image](https://github.com/shinseokwoo/Team_Project_image_edit/assets/145645194/e29583f2-c6b1-4bd4-ab9f-370ecb651610)
+***
+## 편집 기능 - 그리기, 텍스트, 이모지, 프레임, 필터, 자르기
+![image](https://github.com/shinseokwoo/Team_Project_image_edit/assets/145645194/a69d4f5b-6991-44e4-85e2-9ecccddf69a2)
+![image](https://github.com/shinseokwoo/Team_Project_image_edit/assets/145645194/21c743bc-6edb-42f9-b9df-3c336f31052d)
+***
