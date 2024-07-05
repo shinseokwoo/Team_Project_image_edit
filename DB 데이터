@@ -1,0 +1,17 @@
+1. 사용자
+  userNum
+  userId
+  userPassword
+  userQuestion
+  userAnswer
+2. 사용자 개인 프레임
+  frameNum
+  userNum
+  userId
+  frameName
+  frameWidth
+  frameheight
+3. 사용자 라이브러리
+  jsonId
+  userNum
+  jsonFile
